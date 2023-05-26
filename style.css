@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    align-content: center;
+    
+}
+
+.container {
+    padding: 5px;
+    width: 400px;
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+}
